@@ -1,5 +1,5 @@
 <archetype>
-  <id>from-intellij</id>
+  <id>web-app</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
